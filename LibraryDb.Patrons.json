@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "67442bd48592f4ab600d8196"
+  },
+  "name": "Asanda Madondo",
+  "borrowed_books": [
+    "It ends with us"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67442bd48592f4ab600d8197"
+  },
+  "name": "Luyanda Shamase",
+  "borrowed_books": [
+    2020
+  ]
+}]

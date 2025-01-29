@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67442b0e8592f4ab600d8193"
+  },
+  "author_id": 1,
+  "name": "Albert Einstein",
+  "nationality": "British"
+},
+{
+  "_id": {
+    "$oid": "67442b0e8592f4ab600d8194"
+  },
+  "author_id": 2,
+  "name": "Mandley Autin",
+  "nationality": "African"
+},
+{
+  "_id": {
+    "$oid": "67442b0e8592f4ab600d8195"
+  },
+  "author_id": 3,
+  "name": "George Munich",
+  "nationality": "American"
+}]

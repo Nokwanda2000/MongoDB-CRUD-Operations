@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "674428ec8592f4ab600d8190"
+  },
+  "title": "Purple Hibiscus",
+  "author_id": 1,
+  "genre": [
+    "Fiction",
+    "Classic"
+  ],
+  "year": 1999,
+  "available": false
+},
+{
+  "_id": {
+    "$oid": "674428ec8592f4ab600d8191"
+  },
+  "title": "It ends with us",
+  "author_id": 2,
+  "genre": [
+    "Romance"
+  ],
+  "year": 2023,
+  "available": false
+}]
